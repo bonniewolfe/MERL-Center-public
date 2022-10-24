@@ -1,3 +1,5 @@
+[![Check Links](https://github.com/bonniewolfe/MERL-Center-public/actions/workflows/links.yml/badge.svg)](https://github.com/bonniewolfe/MERL-Center-public/actions/workflows/links.yml)
+
 # Welcome to the MERL Center
 The MERL Center is an interdisciplinary community that is creating resources for [monitoring, evaluation, research and learning (MERL)](https://github.com/MERLTech/MERL-Center-public/blob/main/MERLdefinition.md) practitioners to understand if, how, and when to use open source solutions. In February 2022, the MERL Center expanded its scope! In addition to our focus on MERL and open source, we are now exploring topics on MERL and data science, and MERL and human-centered design. 
 
